@@ -1,0 +1,11 @@
+module = Strut
+
+Remove stackSymmetry
+
+tags = AIES
+
+Fix Vector Decouplers node_top
+
+
+%DeployFxModules = 1
+!ProgressFxModules = 1

@@ -1,0 +1,3 @@
+These patches were compiled by Deimos Rast, but represent a community effort.
+Special thanks goes out to COL.R.Neville and MeCripp for their assistance, as well as to those who
+provided patches in the past. You made this much easier than it otherwise would have been - much appreciated!
